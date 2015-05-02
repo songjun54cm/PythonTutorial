@@ -2,7 +2,7 @@
 some notes on using python
 
 ##1. IDE
- * [Sublime]()
+ * [Sublime](http://www.sublimetext.com/)
   * useful plugins
     * [SublimeLinter]()
     * [SublimeLinter-pylint](https://packagecontrol.io/packages/SublimeLinter-pylint)
